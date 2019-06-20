@@ -1,5 +1,4 @@
 # RPG-Server
-[Spigot Plugin] In Progress RPG Server plugin
 
 ## What is spigot?
 A spigot plugin is an add-on for a game server. This game server called Spigot is a modified Minecraft server which provides functionality for these plugins as well as extras.
